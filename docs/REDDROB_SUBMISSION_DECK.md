@@ -1,9 +1,5 @@
 # Redrob Idea Submission — SemFit AI Labs
 
-> **Convert this file to PDF** for portal upload (Slide 1–10 content).  
-> In Word/Google Docs: paste each `---` section as one slide, then Export → PDF.
-
----
 
 ## Slide 1 — Team & Problem
 
