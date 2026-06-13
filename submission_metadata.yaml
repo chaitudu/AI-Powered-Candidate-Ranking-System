@@ -4,17 +4,15 @@ team_name: "SemFit AI Labs"
 
 primary_contact:
   name: "Modalavalasa Chaitanya"
-  email: "chaitanya.modalavalasa@example.com"
-  phone: "+91-XXXXXXXXXX"
+  email: "chaitubindu123@gmail.com"
+  phone: "+91-6301265729"
 
 team_members:
   - name: "Modalavalasa Chaitanya"
-    email: "chaitanya.modalavalasa@example.com"
+    email: "chaitubindu123@gmail.com"
     role: "Team Leader & ML Engineer"
 
-github_repo: "https://github.com/modalavalasachaitanya/semfit-ai-candidate-ranker"
-sandbox_link: "https://huggingface.co/spaces/modalavalasachaitanya/semfit-ai-ranker"
-
+github_repo: "https://github.com/chaitudu/AI-Powered-Candidate-Ranking-System"
 reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
 
 compute:
