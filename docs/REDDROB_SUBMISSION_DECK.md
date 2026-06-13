@@ -225,7 +225,7 @@ python rank.py --candidates ./candidates.jsonl --out ./submission.csv
 
 | Asset | Link / Location |
 |-------|----------------|
-| **GitHub Repository** | https://github.com/modalavalasachaitanya/semfit-ai-candidate-ranker |
+| **GitHub Repository** | [https://github.com/modalavalasachaitanya/semfit-ai-candidate-ranker](https://github.com/chaitudu/AI-Powered-Candidate-Ranking-System)|
 | **Ranked Output CSV** | `outputs/submission.csv` |
 | **Extended Results** | `outputs/ranked_candidates.csv` |
 | **Reproduce Command** | `python rank.py --candidates ./candidates.jsonl --out ./submission.csv` |
