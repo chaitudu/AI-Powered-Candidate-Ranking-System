@@ -1,0 +1,59 @@
+Senior Machine Learning Engineer
+Location: Bengaluru, India (Hybrid)
+Experience: 3-8 years
+
+About the Role
+Redrob AI is hiring a Senior Machine Learning Engineer to build production-grade AI systems that power intelligent candidate discovery and ranking for the Indian hiring market. You will design semantic retrieval pipelines, fine-tune and evaluate LLM-powered agents, and ship models that understand job fit beyond keyword matching.
+
+Responsibilities
+- Design and deploy ML models for semantic candidate-job matching at scale (100K+ profiles)
+- Build embedding pipelines, vector search, and re-ranking systems using modern NLP and LLM tooling
+- Own end-to-end ML lifecycle: data preprocessing, feature engineering, training, evaluation, and monitoring
+- Collaborate with product and recruiting teams to translate hiring signals into model features
+- Implement RAG and agentic workflows for explainable shortlisting
+- Productionize models with MLOps best practices (CI/CD, experiment tracking, model versioning)
+- Mentor engineers on ML system design, evaluation methodology, and responsible AI
+
+Required Skills
+- Python, SQL, Machine Learning, Deep Learning
+- PyTorch or TensorFlow, scikit-learn, pandas, NumPy
+- NLP, Transformers, LLMs, RAG, Fine-tuning
+- Vector databases (ChromaDB, FAISS, or similar)
+- Feature engineering and model evaluation
+- FastAPI or similar backend frameworks for ML services
+- Strong communication and ownership mindset
+
+Preferred Skills
+- LangGraph / LangChain agent orchestration
+- MLOps (MLflow, Weights & Biases, BentoML)
+- Cloud platforms (AWS/GCP), Docker, Kubernetes
+- Spark, Airflow, data pipeline experience
+- Gemini or OpenAI API integration
+- Streamlit for ML demos
+
+Experience Requirements
+- 3-8 years in software engineering or data science with meaningful ML production exposure
+- Demonstrated projects in NLP, recommendation systems, or search ranking
+- Experience working with messy real-world profile/resume data
+
+Behavioral Traits
+- Ownership and end-to-end accountability
+- Clear written and verbal communication
+- Self-directed learning and curiosity
+- Collaboration with cross-functional stakeholders
+- Pragmatic problem solving under constraints
+
+Domain Knowledge
+- HR Tech, recruiting workflows, talent discovery
+- Indian job market and multilingual workforce patterns
+- Search and ranking systems
+
+Leadership Signals
+- Led ML initiatives or mentored junior engineers
+- Drove technical decisions for production AI systems
+- Influenced product roadmap with data-driven insights
+
+Communication Requirements
+- Ability to explain model behavior to non-technical recruiters
+- Write clear technical documentation and evaluation reports
+- Present trade-offs between precision, recall, and latency

@@ -1,0 +1,50 @@
+{
+  "ranked_count": 100,
+  "score_distribution": {
+    "mean": 46.2025,
+    "std": 8.17610254033057,
+    "min": 30.79,
+    "max": 61.14
+  },
+  "component_averages": {
+    "skill_match": 3.39,
+    "project_relevance": 12.03,
+    "experience_match": 18.68,
+    "behavior_match": 10.08,
+    "learning_potential": 8.18
+  },
+  "honeypot_penalty_rate": 0.0,
+  "recommendation_mix": {
+    "Consider": 16,
+    "Pass": 84
+  },
+  "title_diversity_top100": {
+    "Senior Data Scientist": 3,
+    "AI Engineer": 7,
+    "Machine Learning Engineer": 5,
+    "Applied ML Engineer": 1,
+    "NLP Engineer": 2,
+    "Data Scientist": 6,
+    "AI Research Engineer": 10,
+    "Junior ML Engineer": 8,
+    "ML Engineer": 7,
+    "AI Specialist": 2,
+    "Recommendation Systems Engineer": 3,
+    "Search Engineer": 3,
+    "Computer Vision Engineer": 4,
+    "Senior Software Engineer (ML)": 12,
+    "Data Analyst": 2,
+    "Analytics Engineer": 3,
+    "Backend Engineer": 3,
+    "Mechanical Engineer": 3,
+    "Project Manager": 3,
+    "Sales Executive": 2,
+    "Customer Support": 2,
+    "HR Manager": 1,
+    "Civil Engineer": 1,
+    "Graphic Designer": 3,
+    "Operations Manager": 2,
+    "Content Writer": 1,
+    "Software Engineer": 1
+  }
+}

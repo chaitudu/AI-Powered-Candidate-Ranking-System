@@ -1,0 +1,52 @@
+# Redrob Hackathon — Submission Metadata
+
+team_name: "SemFit AI Labs"
+
+primary_contact:
+  name: "Modalavalasa Chaitanya"
+  email: "chaitanya.modalavalasa@example.com"
+  phone: "+91-XXXXXXXXXX"
+
+team_members:
+  - name: "Modalavalasa Chaitanya"
+    email: "chaitanya.modalavalasa@example.com"
+    role: "Team Leader & ML Engineer"
+
+github_repo: "https://github.com/modalavalasachaitanya/semfit-ai-candidate-ranker"
+sandbox_link: "https://huggingface.co/spaces/modalavalasachaitanya/semfit-ai-ranker"
+
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
+
+compute:
+  platform: "Windows 11 Local / Python 3.11 venv"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.11"
+  os: "Windows 11"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: true
+  pre_computation_time_minutes: 7
+
+ai_tools_used:
+  - "Cursor"
+  - "Claude"
+
+ai_usage_summary: |
+  Used Cursor/Claude for architecture design, code generation, and documentation.
+  Candidate data was processed locally; ranking runs fully offline with precomputed embeddings.
+
+methodology_summary: |
+  SemFit AI: multi-agent semantic ranking for 100K Redrob profiles. Job Understanding Agent
+  extracts structured requirements. Embedding pipeline encodes full candidate narratives.
+  Semantic Retrieval selects top-2000 by cosine similarity without keyword matching. Ranking
+  Agent scores skill (30), projects (20), experience (20), behavior (15), learning (15) with
+  honeypot trust multiplier. LangGraph orchestrates workflow; FastAPI + Streamlit provide
+  API and recruiter UI. Offline rank.py produces validated submission.csv in ~2 minutes.
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true

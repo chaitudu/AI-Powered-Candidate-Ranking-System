@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Large generated artifacts (reproduce via precompute_embeddings.py)
+vector_store/embeddings/*.npy
+vector_store/chroma/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+outputs/precompute.log
+
+# Optional: keep sample outputs but exclude huge JSON report
+outputs/ranking_report.json
+
+# Dataset (too large for GitHub — download separately)
+data/candidates.jsonl
+candidates.jsonl
